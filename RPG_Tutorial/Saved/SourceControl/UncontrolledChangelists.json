@@ -11,7 +11,12 @@
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
-				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset"
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouched.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/CrouchBlendSpace1D.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
