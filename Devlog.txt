@@ -1,8 +1,14 @@
-23.8 basic movement animations
-https://www.youtube.com/watch?v=WcDj4uZygyE&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=2&ab_channel=GorkaGames - 3
+23.8
+basic movement animations - 3 hours
+	-> tutorial #2 - https://www.youtube.com/watch?v=WcDj4uZygyE&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=2&ab_channel=GorkaGames 
 
 
 27.8
-Sprint - 1
+Sprint - 1 hour
+Vaulting - 3 hours
+	-> turorial #3- https://www.youtube.com/watch?v=HVhH2qi2B5Q&t=92s&ab_channel=GorkaGames
 
-https://www.youtube.com/watch?v=HVhH2qi2B5Q&t=92s&ab_channel=GorkaGames - 3
+
+28.8
+Fixing vaulting and comenting code - 40 min
+	-> tutorial #13 - https://www.youtube.com/watch?v=x27j_w-Jlxw&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=14&ab_channel=GorkaGames
