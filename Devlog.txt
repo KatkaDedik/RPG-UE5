@@ -12,3 +12,5 @@ Vaulting - 3 hours
 28.8
 Fixing vaulting and comenting code - 40 min
 	-> tutorial #13 - https://www.youtube.com/watch?v=x27j_w-Jlxw&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=14&ab_channel=GorkaGames
+
+Jump + crouch fix - 1:12
