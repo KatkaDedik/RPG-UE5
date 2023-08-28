@@ -14,3 +14,6 @@ Fixing vaulting and comenting code - 40 min
 	-> tutorial #13 - https://www.youtube.com/watch?v=x27j_w-Jlxw&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=14&ab_channel=GorkaGames
 
 Jump + crouch fix - 1:12
+
+Assassination - 1:13
+	-> tutorial #4 - https://www.youtube.com/watch?v=TuiDgXCarP0&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=4&ab_channel=GorkaGames
