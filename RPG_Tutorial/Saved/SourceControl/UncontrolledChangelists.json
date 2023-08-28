@@ -37,6 +37,11 @@
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Blueprints/BP_Dummy.uasset",
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PT/BP85RFIPZGNNYD2VBQ1CS6.uasset",
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/UI/WB_AssassinatePrompt.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Blueprints/BPC_PlayerStats.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/UI/WB_HUD.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Blueprints/BPI_Assassination.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
 				"D:/unreal engine/RPG-UE5/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouched.uasset"
 			]
 		}

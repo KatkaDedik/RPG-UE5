@@ -17,3 +17,6 @@ Jump + crouch fix - 1:12
 
 Assassination - 1:13
 	-> tutorial #4 - https://www.youtube.com/watch?v=TuiDgXCarP0&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=4&ab_channel=GorkaGames
+
+Player Stats - 1:30
+	-> tutorial #5 - https://www.youtube.com/watch?v=2YEZpSrdHfk&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=6&ab_channel=GorkaGames
