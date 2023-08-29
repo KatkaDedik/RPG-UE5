@@ -27,3 +27,6 @@ Sprinting with stamina - 2 hours
 
 Level system - 1 hour
 	-> tutorial #7 - https://www.youtube.com/watch?v=3cf4T-B53SM&t=6s&ab_channel=GorkaGames
+
+Sound and UI - 2 hours
+	-> tutorial #8 - https://www.youtube.com/watch?v=QmgXB9wAYRk&t=1679s&ab_channel=GorkaGames
