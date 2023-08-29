@@ -20,3 +20,7 @@ Assassination - 1:13
 
 Player Stats - 1:30
 	-> tutorial #5 - https://www.youtube.com/watch?v=2YEZpSrdHfk&list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi&index=6&ab_channel=GorkaGames
+
+29.8
+Sprinting with stamina - 2 hours
+	-> tutorial #6 - https://www.youtube.com/watch?v=7P4U5wmONKI&t=27s&ab_channel=GorkaGames
