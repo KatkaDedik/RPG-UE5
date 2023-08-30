@@ -39,3 +39,6 @@ Sword Attack animations and system - 1:25
 
 Sword trace - 2:00
 	-> tutorial #10 - https://www.youtube.com/watch?v=zbbWk851IXk&t=14s&ab_channel=GorkaGames
+
+Blood VFX and Enemy Damage + death + bug fixing
+	-> tutorial #11 - https://www.youtube.com/watch?v=1QX64FjU8cs&ab_channel=GorkaGames
