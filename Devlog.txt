@@ -36,3 +36,6 @@ Fixing stamina bugs - 0:20
 
 Sword Attack animations and system - 1:25
 	-> tutorial #9 - https://www.youtube.com/watch?v=sWpENaVGj2M&t=13s&ab_channel=GorkaGames
+
+Sword trace - 2:00
+	-> tutorial #10 - https://www.youtube.com/watch?v=zbbWk851IXk&t=14s&ab_channel=GorkaGames
