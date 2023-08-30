@@ -30,3 +30,6 @@ Level system - 1 hour
 
 Sound and UI - 2 hours
 	-> tutorial #8 - https://www.youtube.com/watch?v=QmgXB9wAYRk&t=1679s&ab_channel=GorkaGames
+
+30.8 
+Fixing stamina bugs - 0:20
